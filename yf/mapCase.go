@@ -14,4 +14,5 @@ func main() {
 	}
 	delete(mapCASE, "1")
 	fmt.Println(mapCASE)
+	fmt.Println("111111")
 }
