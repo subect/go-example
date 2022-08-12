@@ -16,4 +16,5 @@ func main() {
 	fmt.Println(mapCASE)
 	fmt.Println("111111")
 	fmt.Println("55555555")
+	fmt.Println("4444343")
 }
